@@ -1,1 +1,2 @@
 # vba-challenge
+This challenge's objective is to write a script to analyze yearly stock performance. The VBA script provides the yearly increase or decrease in stock value for each stock, the yearly percentage change and the total volume for the year. Once these values are calculated, it will create a table showing the best performer, the worst performer and the stock with the highest volume traded. 
